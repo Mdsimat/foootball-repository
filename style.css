@@ -117,8 +117,8 @@ footer img{
 /* media */
 /* mobile */
 @media only screen and (max-width:688px) {
-    .header{
-        background-color: skyblue;
+    .header .players{
+        
         grid-template-columns: repeat(1, 1fr);
     }
 }
